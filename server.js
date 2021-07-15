@@ -1,15 +1,15 @@
   
-// Importing necessary modules
+// necessary modules
 const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 3000
 
-// Directory and bringing information together
+// Directory and bringing information
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static(__dirname + '/public'));
 
-// Requiring api routes
+// Api routes
 require('./routes/data')(app);
 require('./routes/view')(app);
 
