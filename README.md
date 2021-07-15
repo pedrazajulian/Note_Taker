@@ -5,7 +5,7 @@
   ## Live App links
 
   https://notetakermk1.herokuapp.com/
-  
+
   https://notetakermk1.herokuapp.com/notes
 
   
@@ -55,9 +55,9 @@
   
  ## Screenshots 
   
-  <img src="notetkr1.png">
+  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/Note_Taker/blob/main/notetkr1.PNG)
 
-  <img src="notetkr2.png">
+  ![the following image shows the screen shot from the homework](https://github.com/pedrazajulian/Note_Taker/blob/main/notetkr2.PNG)
 
   ## ✋ Questions 
   Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/Team_profile_gen).
