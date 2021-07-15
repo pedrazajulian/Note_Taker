@@ -1,10 +1,17 @@
-# ⚡TEAM PROJECT GENERATOR⚡
+# ⚡NOTE TAKER⚡
 
   ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+  ## Live App links
+
+  https://notetakermk1.herokuapp.com/
+  
+  https://notetakermk1.herokuapp.com/notes
+
   
 
   ## Description
-  With this application you can build a TEAM for any project. You can include Manage, interns and Engineers with all the necesary data required.( email, Phone Numbers, Github REpositories, Office Numbers.)
+  With this application you can take notes to organize your ideas and keep them organize by making notes and separating them.
   
   <ur>
   
@@ -15,7 +22,7 @@
   [Usage](#usage)
 
   
-[License](#license)
+  [License](#license)
 
   
   [Contributing](#contributing)
@@ -26,12 +33,12 @@
 
   
   ## 💾Installation  
-  npm install, node.js, express.
+  npm install, node.js, Express, node server.js 
 
   <ur>
 
   ## 💻 Usage  
-    Simple Team Profile Regenerator for any poject or Work Group
+    click on the button to get started. click on the pencil to make a new note. write the tittle and the contents and save it by clicking on the save icon. 
   ## License 
     This project is licensed with MIT.
 
@@ -48,7 +55,9 @@
   
  ## Screenshots 
   
-  
+  <img src="notetkr1.png">
+
+  <img src="notetkr2.png">
 
   ## ✋ Questions 
   Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/Team_profile_gen).
