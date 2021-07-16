@@ -62,5 +62,3 @@
   ## ✋ Questions 
   Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/Team_profile_gen).
 
-
-  [TEAM PROFILE LINK](https://pedrazajulian.github.io/Team_profile_gen/)
